@@ -1,7 +1,6 @@
 import { Header } from "@/components/header"
 import { Hero } from "@/components/hero"
 import { Features } from "@/components/features"
-import { Pricing } from "@/components/pricing"
 import { Footer } from "@/components/footer"
 import { Particles } from "@/components/particles"
 
@@ -13,7 +12,6 @@ export default function Page() {
         <Header />
         <Hero />
         <Features />
-        <Pricing />
         <Footer />
       </div>
     </main>

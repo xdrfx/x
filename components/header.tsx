@@ -36,9 +36,6 @@ export function Header() {
           <a href="#features" className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary">
             Функции
           </a>
-          <a href="#pricing" className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary">
-            Цены
-          </a>
           <a href="#performance" className="text-sm tracking-wide text-muted-foreground transition-colors hover:text-primary">
             Результаты
           </a>
