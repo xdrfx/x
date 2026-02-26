@@ -58,14 +58,8 @@ export function Hero() {
                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
                   <path d="M8 1L15 8L8 15" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
-                Купить Индикатор
+                Получить Индикатор Бесплатно
               </span>
-            </a>
-            <a
-              href="#pricing"
-              className="w-full rounded-xl border border-border bg-card/50 px-8 py-4 text-center text-base font-medium text-foreground backdrop-blur-sm transition-colors hover:border-primary/30 hover:text-primary sm:w-auto"
-            >
-              Смотреть Результаты
             </a>
           </div>
 
